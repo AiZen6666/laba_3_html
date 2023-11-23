@@ -1,0 +1,95 @@
+.background{
+    background-color: rgb(195, 195, 195);
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+.background-img{
+    width: 100%;
+    background-image: url(phone.jpg);
+}
+
+.menu{
+    text-align:center;
+}
+
+ul{
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 auto;
+}
+li{
+    display: inline-block;
+    width:150px;
+    line-height: 2.5;
+    font-size: 1.5em;
+    font-weight: bold;
+    padding:5px;
+    margin-left:0px;
+    margin-right:0px;
+    margin-top:1px;
+    margin-bottom:1px;
+}
+.white-grey{
+    background-color: rgb(169, 168, 168);
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+
+.imglogo img{
+    width: 75%;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+.text{
+    font-size: 1.3em;
+    width:75%;
+    margin: 0 auto;
+    color: white;
+    text-align: justify;
+    padding: 5px;
+}
+
+.photo{
+    width: 200px;
+    height: 100px;
+    float: center;
+    vertical-align: middle;
+}
+
+.content {
+    display: inline-block;  
+    width: 95%;
+    padding: 30px;
+    margin-left: 6.5%;
+    margin-right: 6.5%;
+}
+.block {
+    float: left;
+    width: 27%;
+    height: 20%;
+    margin: 5px;
+    padding: 10px;
+}
+
+span{
+    font-weight: bold;
+    font-size: 1.5em;
+    color: white;
+}
+
+p{
+    color: white;
+    font-size: 1.1em;
+}
+
+.justify{
+    text-align: justify;
+}
